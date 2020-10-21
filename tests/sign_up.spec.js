@@ -1,4 +1,4 @@
-const pageObject = require('../page_objects/pages').container.PageObject;
+const pageObject = require('../pages/pages').container.PageObject;
 const commonHelper = require('../helpers/common.helper.js');
 var data = require('./../data/index');
 
